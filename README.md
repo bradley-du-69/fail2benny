@@ -1,10 +1,13 @@
+
                          __      _ _ ___ _               
                         / _|__ _(_) |_  ) |__  __ _ _ _  
                        |  _/ _` | | |/ /| '_ \/ _` | ' \ 
                        |_| \__,_|_|_/___|_.__/\__,_|_||_|
                        v1.1.0.dev1            20??/??/??
 
-## Fail2Ban: ban hosts that cause multiple authentication errors
+![fail2benny](https://github.com/user-attachments/assets/49b30c73-a8fb-4a9c-af45-d79d9d228c0e)
+
+## "C moi!!! Fail2Benny!": benny hosts that cause multiple authentication errors
 
 Fail2Ban scans log files like `/var/log/auth.log` and bans IP addresses conducting
 too many failed login attempts. It does this by updating system firewall rules
